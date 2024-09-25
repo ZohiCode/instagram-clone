@@ -1,3 +1,14 @@
+# Instagram Clone Project
+
+## Proje Hakkında
+
+Bu proje, bir Instagram klonunun kullanıcı arayüzünü (UI) oluşturmak amacıyla geliştirilmiştir. Proje, kullanıcı etkileşimlerini simüle etmek ve UI bileşenlerini sergilemek için hazırlanmış bir şablondur. Geliştirme sürecindedir ve güncellemeler devam etmektedir, bu nedenle mevcut haliyle sadece tasarım amaçlı kullanılabilir.
+
+1. **Projeyi Klonlayın**:
+   ```bash
+   git clone https://github.com/kullanici_adiniz/instagram-clone.git
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
